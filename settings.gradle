@@ -1,0 +1,2 @@
+rootProject.name='SaveMyPlaceGit'
+include ':app'
